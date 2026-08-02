@@ -4,6 +4,13 @@
 
 ---
 
+## 🌐 Live Demo
+
+Experience the live application here:  
+👉 **[Amazon Clone Live Demo](https://emart.23102160.workers.dev/)**
+
+---
+
 # 🌍 Overview
 
 E-MART is a frontend-based e-commerce web application built using modern UI technologies to simulate a real-world online shopping platform.
